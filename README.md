@@ -1,2 +1,1 @@
-![Alt text](image link)
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.blibli.com%2Ffriends-backend%2Fwp-content%2Fuploads%2F2023%2F01%2FB110547-cover-1.jpg&tbnid=_vu-HHccYEdWvM&vet=12ahUKEwjJ7fam5PWCAxWQfGwGHY5pAvoQMygHegQIARBO..i&imgrefurl=https%3A%2F%2Fwww.blibli.com%2Ffriends%2Fblog%2Fkarakter-anime-terimut-cowok-09%2F&docid=kOWl5ZbJeqfYbM&w=1200&h=800&q=gambar%20karakter%20anime%20&ved=2ahUKEwjJ7fam5PWCAxWQfGwGHY5pAvoQMygHegQIARBO
+
